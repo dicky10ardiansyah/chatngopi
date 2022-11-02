@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742527862091",
+    "project_id": "chatngopi",
+    "storage_bucket": "chatngopi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742527862091:android:2b817373343b0955ffd4ce",
+        "android_client_info": {
+          "package_name": "com.example.chatngopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742527862091-5s07bhf49fdl9nq9s6no83kvbr4430kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGQWK1DgDHFOmhbUkgZ5Zj31XLBc2pPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742527862091-5s07bhf49fdl9nq9s6no83kvbr4430kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
