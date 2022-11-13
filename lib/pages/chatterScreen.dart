@@ -168,7 +168,7 @@ class _ChatterScreenState extends State<ChatterScreen> {
                 ),
                 MaterialButton(
                     shape: CircleBorder(),
-                    color: Colors.blue,
+                    color: Colors.brown[200],
                     onPressed: () {
                       chatMsgTextController.clear();
                       _firestore.collection('messages').add({
